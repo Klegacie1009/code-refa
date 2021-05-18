@@ -52,7 +52,7 @@ p {
 /* Hero Styles */
 
 .hero {
-    min-height: 800px;
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("./images/digital-marketing-meeting.jpeg");
